@@ -76,7 +76,7 @@ p/
 
 ### 首页
 
-![image-20260325153036558](README.assets/image-20260325153036558.png)
+<img src="README.assets/image-20260325153036558.png" alt="image-20260325153036558"  />
 
 ### 图片上传页面
 
